@@ -106,7 +106,7 @@ body {
 }
 .timeline .swiper-pagination {
   right: 15% !important;
-  height: 100%;
+  height: 70%;
   display: none;
   flex-direction: column;
   justify-content: center;
@@ -132,13 +132,12 @@ body {
   background: transparent;
   color: #d4a024;
   font-weight: 600;
-  margin: 13px 0 !important;
+  margin: 9px 0 !important;
   position: relative;
 }
 .timeline .swiper-pagination-bullet:hover {
   color: white;
-  margin: 25px 0 !important;
-  transition: .6s ease 0.3s;
+  transition: .6s ease 0.1s;
 }
 .timeline .swiper-pagination-bullet::before {
   content: "";
