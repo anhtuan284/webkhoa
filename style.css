@@ -76,7 +76,7 @@ body {
 }
 .timeline .swiper-slide .timeline-title {
   font-weight: 700;
-  font-size: 56px;
+  font-size: 42px;
   margin: 0 0 30px;
   opacity: 0; 
   transform: translate3d(20px, 0, 0);
